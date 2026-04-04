@@ -44,7 +44,7 @@ export default function Chat() {
       return;
     }
 
-    const API_URL = import.meta.env.VITE_API_URL || "http://localhost:5000";
+    const API_URL = import.meta.env.VITE_API_URL || "https://ai-health-chatbot-7ixv.onrender.com";
     const res = await axios.post(`${API_URL}/chat`, {
       message: input,
     });
