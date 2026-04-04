@@ -1,0 +1,227 @@
+[
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nViral Fever, Influenza, Malaria, Typhoid\n\n💊 Prevention Tips:\nStay hydrated. Avoid cold water. Rest well. Take paracetamol if needed.\n\n🍲 Diet Advice:\nWarm soups, coconut water, khichdi, tulsi tea, fruits like oranges.\n\n🚨 Red Flags:\nFever above 103°F, fits/seizures, severe headache, rash — see doctor immediately.",
+    "createdAt": "2026-03-15T15:10:34.700Z"
+  },
+  {
+    "userMessage": "eye",
+    "botReply": "🩺 Possible Conditions:\nConjunctivitis, Eye Strain, Dry Eyes, Allergic Conjunctivitis\n\n💊 Prevention Tips:\nAvoid rubbing eyes. Take screen breaks. Wear sunglasses outdoors.\n\n🍲 Diet Advice:\nVitamin A rich food: carrots, spinach, eggs, dairy.\n\n🚨 Red Flags:\nSudden vision loss, severe eye pain, eye injury — ophthalmologist immediately.",
+    "createdAt": "2026-03-15T15:11:22.319Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nViral Fever, Influenza, Malaria, Typhoid, Dengue, COVID-19\n\n💊 Prevention Tips:\nStay hydrated with ORS or water. Rest in a cool room. Use wet cloth on forehead. Take paracetamol for high fever. Avoid self-medicating antibiotics.\n\n🍲 Diet Advice:\nWarm soups, coconut water, khichdi, tulsi-ginger tea, barley water, orange juice, light dal-rice. Avoid oily/spicy food.\n\n🚨 Red Flags:\nFever above 103°F (39.4°C), convulsions/fits, stiff neck, severe headache, rash with fever, no urine for 8+ hours — seek emergency care.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-03-15T16:29:48.411Z"
+  },
+  {
+    "userMessage": "Stomach pain and loose motions",
+    "botReply": "🩺 Possible Conditions:\nViral Gastroenteritis, Food Poisoning, IBS, Traveller's Diarrhea, Cholera\n\n💊 Prevention Tips:\nDrink clean water. Wash hands before meals. Avoid street food. ORS to prevent dehydration.\n\n🍲 Diet Advice:\nBRAT diet: Banana, Rice, Applesauce, Toast. ORS, curd, boiled vegetables. Avoid dairy (except curd), caffeine.\n\n🚨 Red Flags:\n>6 loose motions/day, blood/mucus in stool, high fever, signs of dehydration (sunken eyes, no urine) — doctor urgently.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-03-15T16:30:13.323Z"
+  },
+  {
+    "userMessage": "cough",
+    "botReply": "🩺 Possible Conditions:\nCommon Cold, Viral Upper Respiratory Infection, Allergic Rhinitis, Sinusitis\n\n💊 Prevention Tips:\nSteam inhalation. Avoid cold drinks/ice cream. Cover mouth when coughing. Warm saline gargle.\n\n🍲 Diet Advice:\nHoney-ginger tea, turmeric milk, warm water with lemon, tulsi tea, light dal-rice. Avoid dairy in excess.\n\n🚨 Red Flags:\nCough with blood, breathlessness, high fever >3 days, green/yellow thick mucus with facial pain — see doctor.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T02:45:35.835Z"
+  },
+  {
+    "userMessage": "chakkar",
+    "botReply": "🩺 Possible Conditions:\nUnable to identify a specific condition from your description. Please describe your symptoms more clearly (e.g., \"I have fever and headache\").\n\n💊 Prevention Tips:\nRest well, stay hydrated, and monitor your symptoms closely for any changes.\n\n🍲 Diet Advice:\nEat light, nutritious food. Drink at least 8-10 glasses of water daily. Avoid junk/oily food.\n\n🚨 Red Flags:\nIf symptoms persist for more than 2–3 days, are severe, or are worsening — please consult a doctor immediately.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T02:45:44.683Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nViral Fever, Influenza, Malaria, Typhoid, Dengue, COVID-19\n\n💊 Prevention Tips:\nStay hydrated with ORS or water. Rest in a cool room. Use wet cloth on forehead. Take paracetamol for high fever. Avoid self-medicating antibiotics.\n\n🍲 Diet Advice:\nWarm soups, coconut water, khichdi, tulsi-ginger tea, barley water, orange juice, light dal-rice. Avoid oily/spicy food.\n\n🚨 Red Flags:\nFever above 103°F (39.4°C), convulsions/fits, stiff neck, severe headache, rash with fever, no urine for 8+ hours — seek emergency care.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T02:45:57.677Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 7.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:20:29.827Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 7.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:20:31.010Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 7.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:20:31.429Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 7.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:20:31.645Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 7.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:20:31.856Z"
+  },
+  {
+    "userMessage": "cough",
+    "botReply": "🩺 Possible Conditions:\nCOPD\n(Model Confidence: 8.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nQuit smoking, avoid pollution, annual flu vaccine, pulmonary rehab\n\n🍲 Diet Advice:\nAntioxidant rich berries leafy greens, adequate protein, small frequent meals\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:20:42.260Z"
+  },
+  {
+    "userMessage": "suicidal",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:27:40.572Z"
+  },
+  {
+    "userMessage": "alone",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:27:57.895Z"
+  },
+  {
+    "userMessage": "tired",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:28:10.400Z"
+  },
+  {
+    "userMessage": "tired",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:28:20.610Z"
+  },
+  {
+    "userMessage": "fever",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 7.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:46:04.703Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:47:09.449Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:48:58.356Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:50:22.565Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:50:23.987Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:20.341Z"
+  },
+  {
+    "userMessage": "not feelin good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:38.537Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:47.628Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:47.875Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:48.199Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:48.455Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:48.633Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:48.865Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:50.016Z"
+  },
+  {
+    "userMessage": "not feeling good",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:50.219Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:52:51.473Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:53:18.404Z"
+  },
+  {
+    "userMessage": "5",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:53:31.440Z"
+  },
+  {
+    "userMessage": "n",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:54:43.005Z"
+  },
+  {
+    "userMessage": "n",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:54:44.302Z"
+  },
+  {
+    "userMessage": "d",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:55:36.455Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T04:55:44.741Z"
+  },
+  {
+    "userMessage": "sd",
+    "botReply": "🩺 Possible Conditions:\nCould not identify from description.\n\n💊 Prevention Tips:\nRest, stay hydrated, monitor symptoms.\n\n🍲 Diet Advice:\nLight nutritious food and plenty of water.\n\n🚨 Red Flags:\nIf symptoms persist >2-3 days or worsen — consult a doctor.\n\n❓ Follow-up Questions:\n1. Could you describe your symptoms more specifically?\n2. When did you first notice this issue?\n3. Do you have any pre-existing health conditions?\n\n⚠️ Disclaimer: Educational use only.",
+    "createdAt": "2026-04-04T05:00:01.850Z"
+  },
+  {
+    "userMessage": "\"I've had a persistent dull headache on the right side of my head for two days and I feel slightly nauseous. What could be causing this?",
+    "botReply": "🩺 Possible Conditions:\nMigraine\n(Model Confidence: 5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nIdentify triggers, regular sleep, stay hydrated, avoid stress bright lights\n\n🍲 Diet Advice:\nAdequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T05:00:20.066Z"
+  },
+  {
+    "userMessage": "mild fever",
+    "botReply": "🩺 Possible Conditions:\nInfluenza\n(Model Confidence: 7.5% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nAnnual flu vaccine, hand washing, avoid infected people, rest\n\n🍲 Diet Advice:\nChicken soup, warm herbal teas, fruits, protein-rich food\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T05:01:06.814Z"
+  },
+  {
+    "userMessage": "I have a fever, chills, and I'm sweating\" or \"My temperature is high and my head hurts.\"",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 18% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T05:04:26.383Z"
+  },
+  {
+    "userMessage": "I have a fever, chills, and I'm sweating\" or \"My temperature is high and my head hurts.\"",
+    "botReply": "🩺 Possible Conditions:\nMalaria\n(Model Confidence: 18% | ML (Random Forest / Logistic Regression))\n\n💊 Prevention Tips:\nUse mosquito nets, repellents, eliminate stagnant water, wear full sleeves\n\n🍲 Diet Advice:\nHigh fluid intake, Vitamin C fruits, light digestible food, avoid alcohol\n\n🚨 Red Flags:\nConsult a doctor if symptoms persist or worsen.\n\n❓ Follow-up Questions:\n1. When did you first start noticing these symptoms?\n2. On a scale of 1 to 10, how severe is your discomfort?\n3. Have you taken any medication for this recently?\n\n⚠️ Disclaimer: This is AI-generated health information for educational purposes only. Always consult a qualified doctor for actual diagnosis and treatment.",
+    "createdAt": "2026-04-04T05:04:27.234Z"
+  },
+  {
+    "userMessage": "I have a fever, chills, and I'm sweating\" or \"My temperature is high and my head hurts.\"",
+    "botReply": "🩺 Possible Conditions:\nViral Fever / Flu\n(Using fallback engine — train the model for better accuracy)\n\n💊 Prevention Tips:\nStay hydrated, rest, paracetamol if needed\n\n🍲 Diet Advice:\nWarm soups, coconut water, tulsi tea\n\n🚨 Red Flags:\nFever >103°F, seizures, severe headache — see doctor\n\n❓ Follow-up Questions:\n1. How long have you been experiencing these symptoms?\n2. Are there any specific triggers that make it worse?\n3. Have you tried any home remedies yet?\n\n⚠️ Disclaimer: Educational use only. Always consult a doctor.",
+    "createdAt": "2026-04-04T05:09:02.990Z"
+  }
+]

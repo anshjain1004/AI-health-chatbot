@@ -97,6 +97,18 @@ export default function Landing() {
         </div>
       </section>
 
+      {/* Footer Section */}
+      <footer className="bg-slate-800 text-slate-300 py-16 text-center shadow-inner">
+        <div className="max-w-7xl mx-auto px-8">
+          <h3 className="text-xl font-semibold text-white mb-8 tracking-wide uppercase text-sm">Developed By</h3>
+          <div className="flex justify-center gap-6 flex-wrap font-medium">
+            <span className="bg-slate-700/50 text-teal-300 px-6 py-3 rounded-full border border-slate-600 shadow-sm">Anshul Pandey</span>
+            <span className="bg-slate-700/50 text-teal-300 px-6 py-3 rounded-full border border-slate-600 shadow-sm">Ansh Jain</span>
+            <span className="bg-slate-700/50 text-teal-300 px-6 py-3 rounded-full border border-slate-600 shadow-sm">Chandraprakash Patidar</span>
+          </div>
+        </div>
+      </footer>
+
     </div>
   );
 }

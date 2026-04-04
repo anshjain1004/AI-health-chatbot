@@ -1,0 +1,572 @@
+[
+  {
+    "symptoms": "fever high temperature chills sweating body ache headache fatigue",
+    "disease": "Viral Fever",
+    "prevention": "Stay hydrated, rest well, take paracetamol, avoid cold water",
+    "diet": "Warm soups, coconut water, khichdi, tulsi tea, orange juice"
+  },
+  {
+    "symptoms": "fever chills intermittent shaking sweating spleen enlargement",
+    "disease": "Malaria",
+    "prevention": "Use mosquito nets, repellents, eliminate stagnant water, wear full sleeves",
+    "diet": "High fluid intake, Vitamin C fruits, light digestible food, avoid alcohol"
+  },
+  {
+    "symptoms": "high fever rash joint pain behind eyes pain platelet low bleeding",
+    "disease": "Dengue",
+    "prevention": "Prevent mosquito breeding, full clothing, mosquito repellent, only paracetamol",
+    "diet": "Papaya leaf juice, coconut water, pomegranate juice, kiwi, high fluids"
+  },
+  {
+    "symptoms": "continuous fever stomach pain rose spots constipation slow pulse weakness",
+    "disease": "Typhoid",
+    "prevention": "Boil water, fresh food only, wash hands, typhoid vaccine",
+    "diet": "Soft porridge, mashed potatoes, curd, boiled vegetables, banana"
+  },
+  {
+    "symptoms": "fever cough loss of smell taste breathlessness fatigue body pain",
+    "disease": "COVID-19",
+    "prevention": "Vaccination, mask in crowds, hand hygiene, ventilate rooms",
+    "diet": "Zinc foods, Vitamin C citrus, warm fluids, turmeric milk, ginger tea"
+  },
+  {
+    "symptoms": "itchy blisters rash fever fluid filled spots all over body",
+    "disease": "Chickenpox",
+    "prevention": "Varicella vaccine, isolate patient, avoid scratching, short nails",
+    "diet": "Soft non-spicy food, cold yoghurt, coconut water, fruits"
+  },
+  {
+    "symptoms": "high fever red rash koplik spots mouth cough runny nose red eyes",
+    "disease": "Measles",
+    "prevention": "MMR vaccine, isolate infected person, hand hygiene",
+    "diet": "Vitamin A foods, carrots, sweet potato, mango, soft food, fluids"
+  },
+  {
+    "symptoms": "swollen jaw parotid gland fever difficulty chewing swallowing",
+    "disease": "Mumps",
+    "prevention": "MMR vaccine, avoid sharing utensils, hand hygiene",
+    "diet": "Soft liquid food, soups, mashed food, avoid acidic juices"
+  },
+  {
+    "symptoms": "body ache muscle pain fatigue headache runny nose sneezing mild fever",
+    "disease": "Influenza",
+    "prevention": "Annual flu vaccine, hand washing, avoid infected people, rest",
+    "diet": "Chicken soup, warm herbal teas, fruits, protein-rich food"
+  },
+  {
+    "symptoms": "cough cold runny nose sneezing sore throat nasal congestion blocked nose phlegm",
+    "disease": "Common Cold",
+    "prevention": "Steam inhalation, avoid cold drinks, cover mouth, warm saline gargle",
+    "diet": "Honey ginger tea, turmeric milk, warm water lemon, tulsi tea, light food"
+  },
+  {
+    "symptoms": "wheezing breathlessness chest tightness cough at night allergic triggers",
+    "disease": "Asthma",
+    "prevention": "Avoid triggers dust pollen smoke, use inhaler, flu vaccine",
+    "diet": "Ginger turmeric garlic omega-3, avoid sulphite foods wine dried fruits"
+  },
+  {
+    "symptoms": "productive cough fever chest pain breathlessness crackles lung consolidation",
+    "disease": "Pneumonia",
+    "prevention": "Pneumococcal vaccine, flu vaccine, no smoking, hand hygiene",
+    "diet": "High protein eggs paneer dal, Vitamin C, warm soups, plenty of fluids"
+  },
+  {
+    "symptoms": "prolonged cough blood sputum night sweats weight loss fever fatigue",
+    "disease": "Tuberculosis",
+    "prevention": "BCG vaccination, complete DOTS treatment, ventilate spaces, mask",
+    "diet": "High calorie protein eggs milk dal nuts, Vitamin D sunlight, B6"
+  },
+  {
+    "symptoms": "chronic cough smokers cough breathlessness mucus barrel chest",
+    "disease": "COPD",
+    "prevention": "Quit smoking, avoid pollution, annual flu vaccine, pulmonary rehab",
+    "diet": "Antioxidant rich berries leafy greens, adequate protein, small frequent meals"
+  },
+  {
+    "symptoms": "stomach ache abdominal pain nausea vomiting acidity heartburn indigestion burning",
+    "disease": "Gastritis",
+    "prevention": "Small frequent meals, avoid spicy oily food, no NSAIDs on empty stomach",
+    "diet": "ORS banana boiled rice curd toast coconut water, avoid coffee alcohol"
+  },
+  {
+    "symptoms": "loose motion watery stool diarrhea frequent bowel dehydration cramps",
+    "disease": "Gastroenteritis",
+    "prevention": "Drink clean water, wash hands before meals, ORS to prevent dehydration",
+    "diet": "BRAT diet banana rice toast, ORS curd boiled vegetables, avoid dairy"
+  },
+  {
+    "symptoms": "no bowel movement hard stool straining bloating constipation",
+    "disease": "Constipation",
+    "prevention": "Increase fibre, drink 8-10 glasses water, regular exercise, dont ignore urge",
+    "diet": "Isabgol papaya prunes figs flaxseeds green vegetables whole grains warm water"
+  },
+  {
+    "symptoms": "yellow eyes yellow skin dark urine pale stool fatigue liver swelling",
+    "disease": "Jaundice",
+    "prevention": "Hepatitis vaccines, clean water, no alcohol, safe sex, no shared needles",
+    "diet": "High carb low fat sugarcane juice coconut water fruits boiled vegetables"
+  },
+  {
+    "symptoms": "severe right lower abdominal pain nausea vomiting fever navel pain shifting",
+    "disease": "Appendicitis",
+    "prevention": "High fibre diet, early medical attention if pain worsens",
+    "diet": "Medical emergency - nothing by mouth, post surgery clear liquids then soft diet"
+  },
+  {
+    "symptoms": "rectal bleeding anal pain itching piles haemorrhoids straining toilet",
+    "disease": "Haemorrhoids",
+    "prevention": "High fibre diet, dont strain on toilet, warm sitz baths, stay hydrated",
+    "diet": "High fibre whole grains fruits vegetables isabgol, drink plenty water, avoid spicy"
+  },
+  {
+    "symptoms": "vomiting after eating food poisoning nausea contaminated food cramps diarrhea sudden",
+    "disease": "Food Poisoning",
+    "prevention": "Freshly cooked food, refrigerate leftovers, wash hands, avoid raw meat",
+    "diet": "ORS rehydration, clear liquids, BRAT diet, probiotics curd after recovery"
+  },
+  {
+    "symptoms": "headache migraine throbbing one side nausea light sensitivity aura vomiting",
+    "disease": "Migraine",
+    "prevention": "Identify triggers, regular sleep, stay hydrated, avoid stress bright lights",
+    "diet": "Adequate water, magnesium dark chocolate nuts leafy greens, avoid caffeine alcohol"
+  },
+  {
+    "symptoms": "tension headache band around head stress headache both sides pressure",
+    "disease": "Tension Headache",
+    "prevention": "Reduce stress, good posture, regular sleep, limit screen time, hydration",
+    "diet": "Water, magnesium foods, regular meals, avoid skipping meals, limit caffeine"
+  },
+  {
+    "symptoms": "seizure fits convulsion shaking consciousness loss epilepsy",
+    "disease": "Epilepsy",
+    "prevention": "Take medicines regularly, avoid triggers sleep deprivation alcohol flashing lights",
+    "diet": "Ketogenic diet under supervision, regular meal timing, avoid alcohol"
+  },
+  {
+    "symptoms": "face drooping arm weakness slurred speech sudden numbness stroke paralysis",
+    "disease": "Stroke",
+    "prevention": "Control BP cholesterol diabetes, no smoking, regular exercise, anti-coagulants",
+    "diet": "DASH diet low sodium high potassium fruits vegetables whole grains fish"
+  },
+  {
+    "symptoms": "stiff neck severe headache fever photophobia light sensitivity vomiting rash",
+    "disease": "Meningitis",
+    "prevention": "Meningococcal Hib pneumococcal vaccines, avoid close contact with infected",
+    "diet": "Medical emergency hospital fluids required immediate"
+  },
+  {
+    "symptoms": "spinning dizziness vertigo balance loss inner ear nausea with movement",
+    "disease": "Vertigo",
+    "prevention": "Avoid sudden head movements, Epley manoeuvre for BPPV, stay hydrated",
+    "diet": "Low sodium for Menieres, hydration, avoid caffeine and alcohol"
+  },
+  {
+    "symptoms": "chest pain left arm pain jaw pain cold sweat heart attack cardiac",
+    "disease": "Heart Attack",
+    "prevention": "Control BP cholesterol, no smoking, exercise, manage stress, healthy diet",
+    "diet": "Mediterranean DASH diet omega-3 oats garlic leafy greens, avoid trans fats salt"
+  },
+  {
+    "symptoms": "chest tightness on exertion angina heart pain relieved by rest",
+    "disease": "Angina",
+    "prevention": "Control risk factors, no smoking, exercise, low fat diet, stress management",
+    "diet": "Low fat low salt diet, omega-3 fish, oats, fresh fruits vegetables"
+  },
+  {
+    "symptoms": "high blood pressure headache hypertension no symptoms silent killer",
+    "disease": "Hypertension",
+    "prevention": "Reduce salt, exercise 30 min daily, healthy weight, limit alcohol, no smoking",
+    "diet": "DASH diet fruits vegetables whole grains low fat dairy, potassium banana spinach"
+  },
+  {
+    "symptoms": "low blood pressure fainting dizziness on standing light headed syncope",
+    "disease": "Hypotension",
+    "prevention": "Rise slowly, stay hydrated, wear compression stockings if needed",
+    "diet": "Adequate salt fluid intake, small frequent meals, coffee in moderation"
+  },
+  {
+    "symptoms": "palpitations irregular heartbeat racing heart anxiety arrhythmia flutter",
+    "disease": "Arrhythmia",
+    "prevention": "Limit caffeine alcohol, manage stress, regular check-ups, prescribed medicines",
+    "diet": "Magnesium rich foods, limit caffeine, avoid stimulants, omega-3 fish"
+  },
+  {
+    "symptoms": "frequent urination thirst weight loss fatigue blurred vision high sugar glucose",
+    "disease": "Diabetes Type 2",
+    "prevention": "Healthy weight, exercise daily, reduce refined sugar carbohydrates, monitor sugar",
+    "diet": "Low glycemic index foods whole grains legumes vegetables, avoid white rice sweets"
+  },
+  {
+    "symptoms": "type 1 diabetes insulin dependent childhood diabetes ketoacidosis",
+    "disease": "Diabetes Type 1",
+    "prevention": "Insulin therapy, regular monitoring, healthy diet, exercise, regular check-ups",
+    "diet": "Carbohydrate counting, balanced meals, avoid sugary drinks, regular meal timing"
+  },
+  {
+    "symptoms": "weight gain cold intolerance constipation dry skin hair loss fatigue thyroid",
+    "disease": "Hypothyroidism",
+    "prevention": "Adequate iodine intake, regular TSH tests, avoid raw cruciferous excess",
+    "diet": "Iodine rich iodised salt seafood, selenium Brazil nuts eggs, avoid soy excess"
+  },
+  {
+    "symptoms": "weight loss heat intolerance rapid heartbeat anxiety tremors bulging eyes goitre",
+    "disease": "Hyperthyroidism",
+    "prevention": "Regular thyroid tests, medication compliance, avoid iodine excess, stress reduction",
+    "diet": "Avoid excess iodine, calcium rich foods dairy leafy greens, adequate calories"
+  },
+  {
+    "symptoms": "severe flank pain loin pain blood in urine kidney stone nausea vomiting colicky",
+    "disease": "Kidney Stones",
+    "prevention": "Drink 3-4 litres water daily, reduce salt animal protein, limit oxalate foods",
+    "diet": "High fluid intake, lemon water, avoid excess protein salt oxalate foods"
+  },
+  {
+    "symptoms": "burning urination frequent urination UTI urine infection pelvic pain",
+    "disease": "Urinary Tract Infection",
+    "prevention": "Drink plenty water, dont hold urine, wipe front to back, urinate after intercourse",
+    "diet": "Cranberry juice, plenty water, probiotics curd, avoid caffeine alcohol spicy food"
+  },
+  {
+    "symptoms": "no urine reduced urine swelling kidney failure creatinine high dialysis",
+    "disease": "Kidney Failure",
+    "prevention": "Control diabetes BP, stay hydrated, avoid excess NSAIDs, regular kidney tests",
+    "diet": "Low protein potassium phosphorus sodium under nephrologist guidance"
+  },
+  {
+    "symptoms": "skin rash itching hives urticaria allergy redness swelling dermatitis",
+    "disease": "Allergic Dermatitis",
+    "prevention": "Avoid known allergens, mild fragrance-free soap, moisturise skin, cotton clothing",
+    "diet": "Anti-inflammatory omega-3 turmeric fruits vegetables, avoid processed food alcohol"
+  },
+  {
+    "symptoms": "eczema dry itchy patches skin chronic inflammation atopic dermatitis",
+    "disease": "Eczema",
+    "prevention": "Moisturise regularly, avoid triggers, mild soap, cotton clothes, manage stress",
+    "diet": "Omega-3 rich food, probiotics, avoid known food triggers dairy eggs wheat"
+  },
+  {
+    "symptoms": "psoriasis silver scales red patches skin chronic autoimmune flare",
+    "disease": "Psoriasis",
+    "prevention": "Avoid triggers stress infection injury, moisturise, phototherapy if prescribed",
+    "diet": "Anti-inflammatory diet, omega-3, avoid alcohol, maintain healthy weight"
+  },
+  {
+    "symptoms": "pimples acne blackhead whitehead oily skin breakout hormonal",
+    "disease": "Acne",
+    "prevention": "Wash face twice daily, avoid touching face, non-comedogenic sunscreen, manage stress",
+    "diet": "Low glycemic diet, reduce dairy, zinc pumpkin seeds Vitamin A carrots, water"
+  },
+  {
+    "symptoms": "ringworm fungal infection tinea athlete foot jock itch circular rash",
+    "disease": "Fungal Infection",
+    "prevention": "Keep skin dry, change clothes daily, avoid sharing personal items, cotton clothing",
+    "diet": "Reduce sugar, probiotics curd yoghurt, garlic antifungal, avoid refined carbs"
+  },
+  {
+    "symptoms": "burns burn scald blister skin injury fire thermal",
+    "disease": "Burns",
+    "prevention": "Keep children away from stoves, test bath water temperature, sunscreen, electrical safety",
+    "diet": "High protein high calorie Vitamin C zinc, plenty fluids for healing"
+  },
+  {
+    "symptoms": "red eye conjunctivitis pink eye watery eye discharge itchy eye",
+    "disease": "Conjunctivitis",
+    "prevention": "Avoid rubbing eyes, wash hands, dont share eye makeup, hygiene",
+    "diet": "Vitamin A carrots sweet potato leafy greens, omega-3 fish, zinc"
+  },
+  {
+    "symptoms": "blurry vision cloudy lens cataract age-related vision loss gradual",
+    "disease": "Cataract",
+    "prevention": "UV-protective sunglasses, control diabetes BP, regular eye exams, no smoking",
+    "diet": "Antioxidants Vitamins C E, Lutein Zeaxanthin leafy greens eggs, omega-3"
+  },
+  {
+    "symptoms": "eye pain pressure halos around lights glaucoma vision loss peripheral",
+    "disease": "Glaucoma",
+    "prevention": "Regular eye pressure check, avoid steroids long-term, control IOP with drops",
+    "diet": "Leafy greens, omega-3, Vitamin A, stay hydrated, antioxidant rich food"
+  },
+  {
+    "symptoms": "ear pain earache ear infection discharge hearing loss otitis",
+    "disease": "Ear Infection",
+    "prevention": "Dry ears after swimming, dont insert objects, treat respiratory infections promptly",
+    "diet": "Anti-inflammatory diet, zinc Vitamin C for immunity, warm fluids"
+  },
+  {
+    "symptoms": "tonsils swollen throat infection strep white patches difficulty swallowing fever",
+    "disease": "Tonsillitis",
+    "prevention": "Avoid sharing utensils, hand hygiene, treat strep with prescribed antibiotics",
+    "diet": "Cold warm liquids ice cream soft food honey ginger tea warm saline gargle soup"
+  },
+  {
+    "symptoms": "sinus pain facial pain nasal congestion post nasal drip sinusitis",
+    "disease": "Sinusitis",
+    "prevention": "Treat colds early, steam inhalation, saline nasal rinse, avoid allergens",
+    "diet": "Spicy food warm fluids ginger turmeric Vitamin C, avoid dairy"
+  },
+  {
+    "symptoms": "lower back pain backache lumbar pain sciatica disc spine",
+    "disease": "Lower Back Pain",
+    "prevention": "Correct posture, ergonomic chair, core strengthening, avoid prolonged sitting",
+    "diet": "Turmeric ginger omega-3 anti-inflammatory, calcium dairy ragi, Vitamin D sunlight"
+  },
+  {
+    "symptoms": "joint pain swelling stiffness arthritis knee hip morning stiffness",
+    "disease": "Arthritis",
+    "prevention": "Healthy weight, low-impact exercise swimming cycling, protect joints",
+    "diet": "Anti-inflammatory omega-3 turmeric, avoid red meat alcohol shellfish for gout"
+  },
+  {
+    "symptoms": "gout uric acid high swollen toe joint crystals red hot joint pain",
+    "disease": "Gout",
+    "prevention": "Avoid purines red meat organ meat alcohol shellfish, stay hydrated",
+    "diet": "Cherries, low purine diet, avoid alcohol, drink plenty water, low fat dairy"
+  },
+  {
+    "symptoms": "rheumatoid arthritis morning stiffness symmetric joint pain autoimmune",
+    "disease": "Rheumatoid Arthritis",
+    "prevention": "No smoking, regular exercise, DMARDs as prescribed, joint protection techniques",
+    "diet": "Omega-3 fish oil, Mediterranean diet, turmeric, avoid processed food red meat"
+  },
+  {
+    "symptoms": "weak bones osteoporosis fracture risk low bone density elderly fall",
+    "disease": "Osteoporosis",
+    "prevention": "Calcium Vitamin D throughout life, weight-bearing exercise, no smoking, DEXA scan",
+    "diet": "Calcium 1200mg dairy ragi soy, Vitamin D sunlight supplements, magnesium nuts"
+  },
+  {
+    "symptoms": "period pain menstrual cramps dysmenorrhea painful periods",
+    "disease": "Dysmenorrhoea",
+    "prevention": "Regular exercise, stress management, heat therapy, NSAIDs as needed",
+    "diet": "Iron rich spinach jaggery lentils, omega-3 anti-inflammatory, avoid caffeine salt"
+  },
+  {
+    "symptoms": "irregular periods PCOS PCOD hormonal imbalance weight gain facial hair",
+    "disease": "PCOS",
+    "prevention": "Regular exercise, healthy weight, low refined carbs, hormonal evaluation",
+    "diet": "Low glycemic index food, anti-inflammatory, omega-3, avoid processed sugar"
+  },
+  {
+    "symptoms": "morning sickness pregnancy nausea vomiting antenatal first trimester",
+    "disease": "Pregnancy Nausea",
+    "prevention": "Small frequent meals, ginger tea, avoid triggers, stay hydrated, folic acid",
+    "diet": "Folic acid iron calcium protein fruits vegetables whole grains, avoid raw food"
+  },
+  {
+    "symptoms": "hot flashes night sweats menopause mood swings vaginal dryness perimenopause",
+    "disease": "Menopause",
+    "prevention": "Regular exercise, calcium Vitamin D, HRT under gynaecologist, mammograms",
+    "diet": "Phytoestrogens soy flaxseed, calcium rich food, omega-3, avoid caffeine"
+  },
+  {
+    "symptoms": "prostate difficult urination weak stream night urination BPH",
+    "disease": "Benign Prostatic Hyperplasia",
+    "prevention": "Regular PSA screening, dont hold urine, healthy diet, exercise, limit alcohol",
+    "diet": "Lycopene tomatoes watermelon, selenium Brazil nuts, zinc pumpkin seeds, green tea"
+  },
+  {
+    "symptoms": "anxiety panic attack worry nervousness phobia overthinking racing heart sweat",
+    "disease": "Anxiety Disorder",
+    "prevention": "Mindfulness meditation, regular exercise, limit caffeine alcohol, social support, CBT",
+    "diet": "Magnesium dark chocolate nuts, omega-3, Vitamin B complex, chamomile tea"
+  },
+  {
+    "symptoms": "depression sadness hopeless worthless crying low mood no motivation anhedonia",
+    "disease": "Depression",
+    "prevention": "Regular exercise, social connection, therapy, adequate sleep, professional help",
+    "diet": "Omega-3 fish walnuts, folate leafy greens, Vitamin D, fermented foods, avoid alcohol"
+  },
+  {
+    "symptoms": "insomnia cant sleep sleepless wake up night sleep problem difficulty sleeping",
+    "disease": "Insomnia",
+    "prevention": "Fixed sleep schedule, no screens before bed, dark cool room, no caffeine after 2pm",
+    "diet": "Tryptophan milk banana nuts before bed, chamomile tea, avoid heavy meals caffeine"
+  },
+  {
+    "symptoms": "smoking tobacco alcohol addiction dependence withdrawal substance",
+    "disease": "Substance Dependence",
+    "prevention": "Counselling, peer support, identify triggers, gradual reduction, medical supervision",
+    "diet": "Thiamine B1 for alcohol users, high protein balanced diet, hydration"
+  },
+  {
+    "symptoms": "child baby fever infant pediatric febrile illness toddler",
+    "disease": "Paediatric Fever",
+    "prevention": "Immunisations, hand hygiene, breastfeeding protects infants, avoid cold draughts",
+    "diet": "Oral rehydration, breastfeed infants, soups khichdi fruits, light digestible food"
+  },
+  {
+    "symptoms": "anaemia low haemoglobin pale weakness fatigue breathless on exertion dizzy",
+    "disease": "Anaemia",
+    "prevention": "Iron folic acid in pregnancy, deworming, eat iron-rich foods, treat cause",
+    "diet": "Iron spinach jaggery dates lentils meat, Vitamin C aids absorption, B12 eggs dairy"
+  },
+  {
+    "symptoms": "vitamin b12 deficiency tingling numbness neuropathy weakness memory loss",
+    "disease": "Vitamin B12 Deficiency",
+    "prevention": "B12 supplements for vegetarians vegans, regular blood tests, limit alcohol",
+    "diet": "B12 eggs dairy meat fish fortified foods, supplements essential for vegans"
+  },
+  {
+    "symptoms": "vitamin d deficiency bone pain rickets osteomalacia muscle weakness sun",
+    "disease": "Vitamin D Deficiency",
+    "prevention": "15-20 min sunlight daily, Vitamin D supplements if deficient",
+    "diet": "Fatty fish egg yolks fortified milk mushrooms UV exposed, calcium with Vitamin D"
+  },
+  {
+    "symptoms": "dehydration dry mouth dark urine thirst electrolyte imbalance no urine",
+    "disease": "Dehydration",
+    "prevention": "Drink 8-10 glasses water daily, increase fluids in heat exercise illness, ORS",
+    "diet": "ORS 1L water 6tsp sugar half tsp salt, coconut water lemon water buttermilk fruits"
+  },
+  {
+    "symptoms": "obesity overweight high BMI weight gain metabolic syndrome belly fat",
+    "disease": "Obesity",
+    "prevention": "Balanced caloric intake, exercise 150 min per week, reduce sedentary time, sleep well",
+    "diet": "Calorie controlled whole grains lean protein vegetables, avoid refined carbs sugary drinks"
+  },
+  {
+    "symptoms": "snake bite venom swelling pain fang marks venomous",
+    "disease": "Snake Bite",
+    "prevention": "Wear boots in snake prone areas, torch at night, dont reach into dark spaces",
+    "diet": "Nothing by mouth go to hospital immediately for anti-snake venom ASV"
+  },
+  {
+    "symptoms": "heat stroke sunstroke confusion high body temperature hot dry skin heat wave",
+    "disease": "Heat Stroke",
+    "prevention": "Stay hydrated, avoid peak sun, light clothing, rest in shade, acclimatise",
+    "diet": "ORS coconut water cold water electrolytes, avoid alcohol caffeine in heat"
+  },
+  {
+    "symptoms": "malnutrition underweight child stunted growth wasting failure to thrive",
+    "disease": "Malnutrition",
+    "prevention": "Exclusive breastfeeding 6 months, timely complementary feeding, deworming",
+    "diet": "Energy dense dal eggs milk fruits vegetables, iron green leafy jaggery, zinc lentils"
+  },
+  {
+    "symptoms": "genital sores discharge STI sexually transmitted HIV AIDS syphilis gonorrhoea",
+    "disease": "Sexually Transmitted Infection",
+    "prevention": "Condom use, regular STI testing, limit partners, HPV vaccine, PrEP for HIV",
+    "diet": "High protein antioxidant rich diet, adequate micronutrients, safe food handling"
+  },
+  {
+    "symptoms": "unexplained weight loss lump mass blood stool urine sputum cancer non-healing ulcer",
+    "disease": "Cancer Warning Signs",
+    "prevention": "Regular screenings, no smoking alcohol, HPV vaccine, healthy weight, sun protection",
+    "diet": "Cruciferous vegetables berries green tea turmeric garlic tomatoes, avoid processed meat"
+  },
+  {
+    "symptoms": "neck pain cervical pain stiffness radiating arm pain desk job computer",
+    "disease": "Cervical Spondylosis",
+    "prevention": "Good posture, ergonomic workstation, neck exercises, avoid prolonged screen time",
+    "diet": "Anti-inflammatory turmeric omega-3, calcium Vitamin D, stay hydrated"
+  },
+  {
+    "symptoms": "heel pain plantar fasciitis foot pain morning first step flat foot",
+    "disease": "Plantar Fasciitis",
+    "prevention": "Supportive footwear, stretching exercises, healthy weight, avoid hard surfaces",
+    "diet": "Anti-inflammatory omega-3 turmeric, Vitamin D calcium, maintain healthy weight"
+  },
+  {
+    "symptoms": "anaemia sickle cell thalassemia blood disorder jaundice bone pain crises",
+    "disease": "Haemoglobin Disorder",
+    "prevention": "Genetic counselling, folic acid supplementation, regular monitoring, hydroxyurea",
+    "diet": "Folic acid foods leafy greens, adequate hydration, iron as directed by doctor"
+  },
+  {
+    "symptoms": "liver cirrhosis chronic liver disease alcohol liver ascites portal hypertension",
+    "disease": "Liver Cirrhosis",
+    "prevention": "No alcohol, hepatitis vaccines, healthy weight, avoid hepatotoxic drugs",
+    "diet": "Low sodium, adequate protein unless encephalopathy, Vitamin K, small frequent meals"
+  },
+  {
+    "symptoms": "gallstones gallbladder pain right upper abdomen fatty food intolerance nausea",
+    "disease": "Gallstones",
+    "prevention": "Healthy weight, low fat diet, avoid rapid weight loss, regular exercise",
+    "diet": "Low fat diet, high fibre, avoid fried oily food, regular small meals"
+  },
+  {
+    "symptoms": "pancreatitis severe upper abdominal pain radiates back alcohol fat pain",
+    "disease": "Pancreatitis",
+    "prevention": "No alcohol, low fat diet, treat gallstones, avoid high triglycerides",
+    "diet": "Low fat diet, small frequent meals, no alcohol, adequate fluids, avoid fried food"
+  },
+  {
+    "symptoms": "irritable bowel IBS cramping alternating diarrhea constipation bloating stress",
+    "disease": "Irritable Bowel Syndrome",
+    "prevention": "Stress management, regular exercise, identify food triggers, probiotics",
+    "diet": "Low FODMAP diet, avoid gas-causing foods, probiotics, regular meal timing"
+  },
+  {
+    "symptoms": "acid reflux GERD heartburn burning chest after meals lying down regurgitation",
+    "disease": "Acid Reflux",
+    "prevention": "Dont lie down after eating, small meals, avoid triggers coffee alcohol spicy",
+    "diet": "Alkaline food bananas oats ginger, avoid citrus tomatoes caffeine alcohol mint"
+  },
+  {
+    "symptoms": "mouth ulcer canker sore aphthous painful mouth lesion",
+    "disease": "Mouth Ulcers",
+    "prevention": "Avoid trigger foods, gentle toothbrush, manage stress, B12 and iron intake",
+    "diet": "Vitamin B12 iron zinc foods, curd honey, avoid spicy acidic food, stay hydrated"
+  },
+  {
+    "symptoms": "dental pain toothache tooth decay cavity abscess jaw pain",
+    "disease": "Dental Problem",
+    "prevention": "Brush twice daily, floss, regular dental check-ups, limit sugar, fluoride toothpaste",
+    "diet": "Calcium dairy, Vitamin D, crunchy fruits vegetables clean teeth, avoid excess sugar"
+  },
+  {
+    "symptoms": "hair loss alopecia thinning hair bald patches nutritional deficiency stress",
+    "disease": "Hair Loss",
+    "prevention": "Manage stress, balanced diet, avoid tight hairstyles, gentle hair care",
+    "diet": "Protein eggs dal, iron spinach dates, zinc pumpkin seeds, biotin eggs nuts"
+  },
+  {
+    "symptoms": "dark circles under eye puffy eyes fatigue sleep deprivation allergies",
+    "disease": "Dark Circles",
+    "prevention": "Adequate sleep 7-8 hours, hydration, treat allergies, sun protection under eyes",
+    "diet": "Vitamin C citrus, iron leafy greens, adequate hydration, omega-3"
+  },
+  {
+    "symptoms": "joint swelling lupus butterfly rash autoimmune fatigue multiple organ",
+    "disease": "Lupus",
+    "prevention": "Sun protection, regular monitoring, medicines as prescribed, stress management",
+    "diet": "Anti-inflammatory omega-3, Vitamin D, avoid alfalfa sprouts, adequate calcium"
+  },
+  {
+    "symptoms": "multiple sclerosis MS weakness vision loss balance coordination nervous system",
+    "disease": "Multiple Sclerosis",
+    "prevention": "Vitamin D supplementation, no smoking, exercise, disease-modifying therapy",
+    "diet": "Omega-3 fish, Vitamin D, Swank diet low saturated fat, antioxidant rich foods"
+  },
+  {
+    "symptoms": "parkinsons tremor resting tremor rigidity slow movement shuffling gait elderly",
+    "disease": "Parkinson's Disease",
+    "prevention": "Exercise, avoid pesticides, antioxidant diet, regular neurological monitoring",
+    "diet": "High fibre for constipation, protein timed around medications, antioxidants berries"
+  },
+  {
+    "symptoms": "alzheimers dementia memory loss confusion forgetfulness elderly cognitive decline",
+    "disease": "Alzheimer's Disease",
+    "prevention": "Mental activity, physical exercise, social engagement, control BP diabetes, sleep",
+    "diet": "MIND diet leafy greens berries fish nuts whole grains, avoid saturated fat sugar"
+  },
+  {
+    "symptoms": "bipolar disorder mood swings mania depression episode mental health",
+    "disease": "Bipolar Disorder",
+    "prevention": "Mood stabiliser medicines, regular therapy, sleep routine, avoid alcohol drugs",
+    "diet": "Omega-3, regular meals, avoid alcohol caffeine, Mediterranean diet, folate"
+  },
+  {
+    "symptoms": "schizophrenia hallucinations delusions psychosis disorganized thinking",
+    "disease": "Schizophrenia",
+    "prevention": "Antipsychotic medicines, therapy, family support, avoid cannabis alcohol",
+    "diet": "Balanced diet, omega-3, antioxidants, regular meals, adequate hydration"
+  },
+  {
+    "symptoms": "general health wellness healthy lifestyle fitness stay healthy",
+    "disease": "General Wellness",
+    "prevention": "Exercise 150 min per week, no smoking, limit alcohol, manage stress, health check-ups",
+    "diet": "Balanced diet 50% vegetables fruits 25% whole grains 25% protein, reduce salt sugar"
+  }
+]
