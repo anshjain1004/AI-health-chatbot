@@ -223,5 +223,10 @@
     "userMessage": "I have a fever, chills, and I'm sweating\" or \"My temperature is high and my head hurts.\"",
     "botReply": "🩺 Possible Conditions:\nViral Fever / Flu\n(Using fallback engine — train the model for better accuracy)\n\n💊 Prevention Tips:\nStay hydrated, rest, paracetamol if needed\n\n🍲 Diet Advice:\nWarm soups, coconut water, tulsi tea\n\n🚨 Red Flags:\nFever >103°F, seizures, severe headache — see doctor\n\n❓ Follow-up Questions:\n1. How long have you been experiencing these symptoms?\n2. Are there any specific triggers that make it worse?\n3. Have you tried any home remedies yet?\n\n⚠️ Disclaimer: Educational use only. Always consult a doctor.",
     "createdAt": "2026-04-04T05:09:02.990Z"
+  },
+  {
+    "userMessage": "w",
+    "botReply": "🩺 Possible Conditions:\nCould not identify from description.\n\n💊 Prevention Tips:\nRest, stay hydrated, monitor symptoms.\n\n🍲 Diet Advice:\nLight nutritious food and plenty of water.\n\n🚨 Red Flags:\nIf symptoms persist >2-3 days or worsen — consult a doctor.\n\n❓ Follow-up Questions:\n1. Could you describe your symptoms more specifically?\n2. When did you first notice this issue?\n3. Do you have any pre-existing health conditions?\n\n⚠️ Disclaimer: Educational use only.",
+    "createdAt": "2026-04-04T05:26:43.143Z"
   }
 ]
