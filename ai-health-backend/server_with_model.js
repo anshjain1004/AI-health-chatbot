@@ -133,20 +133,10 @@ app.post("/chat", async (req, res) => {
     const userMessage = req.body.message?.trim();
     if (!userMessage) return res.status(400).json({ error: "Message is empty" });
 
-    let botReply;
-
-    if (isModelTrained()) {
-      try {
-        const result = await callPythonModel(userMessage);
-        botReply = formatReply(result);
-      } catch (pyErr) {
-        console.warn("⚠️ Python model error, using fallback:", pyErr.message);
-        botReply = fallbackResponse(userMessage);
-      }
-    } else {
-      console.warn("⚠️ Model not trained yet — using keyword fallback engine");
-      botReply = fallbackResponse(userMessage);
-    }
+    // TEMPORARY BYPASS FOR PRESENTATION (Prevents Vercel 512MB Crash)
+    // Directly use the fallback engine instead of spinning up Python
+    console.warn("⚠️ Presentation Mode: Using keyword fallback engine");
+    let botReply = fallbackResponse(userMessage);
 
     saveChat(userMessage, botReply);
     res.json({ reply: botReply });
