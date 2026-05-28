@@ -73,11 +73,11 @@
 * Chandraprakash Patidar EN24CS3L10005
 
 ### Project Screenshots
-> **Note:** Replace the placeholder links below with actual image paths or URLs of your application.
+> 
 
 * **Login/Signup Screen:**
-  *(Insert Screenshot Here)*
+  *<img width="720" height="937" alt="image" src="https://github.com/user-attachments/assets/4e1dbcd3-f0ba-4ca3-a396-d4082c5d9830" />
+*
 * **Chat Interface:**
-  *(Insert Screenshot Here)*
-* **Symptom Analysis Output:**
-  *(Insert Screenshot Here)*
+  *<img width="984" height="802" alt="WhatsApp Image 2026-05-28 at 07 06 57" src="https://github.com/user-attachments/assets/1818c3aa-92f8-42db-a21e-dca1422bfb67" />
+*
