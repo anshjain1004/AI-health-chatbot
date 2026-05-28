@@ -68,9 +68,9 @@
 ## Team Members and Project Screenshots/Outputs
 
 ### Team Members
-* [Insert Team Member 1 Name & Roll No.]
-* [Insert Team Member 2 Name & Roll No.]
-* [Insert Team Member 3 Name & Roll No.]
+* Anshul Pandey EN23CS301162
+* Ansh Jain EN23CS301151
+* Chandraprakash Patidar EN24CS3L10005
 
 ### Project Screenshots
 > **Note:** Replace the placeholder links below with actual image paths or URLs of your application.
