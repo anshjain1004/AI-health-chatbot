@@ -76,6 +76,7 @@
 > 
 
 **Login/Signup Screen:**
+** **
 <img width="720" height="937" alt="image" src="https://github.com/user-attachments/assets/4e1dbcd3-f0ba-4ca3-a396-d4082c5d9830" />
 
 **Chat Interface:**
